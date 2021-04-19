@@ -14,7 +14,7 @@ In this repository you can find the following data structures:
     - Decreasing order print;;
 
 #### Into recursion script you can find these exercises:
-- Calculation of the factiorial;
+- Calculation of the factorial;
 - Check if a word is or not a palindrome;
 - Peaks count;
 - Find a char in a string;
